@@ -1,3 +1,20 @@
-body {
-  background-color: #242424;
+.nav-link {
+  margin-left: 20px;
+}
+#supportHero {
+  background-color: rgb(56, 126, 209);
+  color: #fff;
+}
+#supportWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px;
+}
+
+#inputBox {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 15px;
+  font-size: 14px;
 }
